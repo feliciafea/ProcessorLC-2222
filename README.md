@@ -1,5 +1,5 @@
 # ProcessorLC-2222
-Currently working on pipelining to handle data hazards and branch prediction for better efficiency. Interrupt handling has also been added to the current working version (not shown below). 
+Interrupt handling has also been added to the current working version (not shown below). 
 Implemented datapath and microcontrol unit using CircuitSim LC-2222. Wrote microcode for 3 ROM microcontrol unit based on LC-2222 ISA.
 
 # Non-pipelined Datapath (September 2023 version)
